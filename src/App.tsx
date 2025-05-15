@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { TonConnectButton, useTonConnectUI, useTonWallet } from '@tonconnect/ui-react';
 import { Address, beginCell } from '@ton/ton';
 
